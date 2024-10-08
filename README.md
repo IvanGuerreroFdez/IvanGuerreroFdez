@@ -3,8 +3,12 @@ Soy estudiante de Ingeniería del Software cursando la mención de Cibersegurida
 
 💪🔥📖 Todo conocimiento es poco, siempre se puede aprender más 📖🔥💪
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGuerrero&layout=compact&theme=radical)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical)
+### 📊 Mis estadísticas en GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tuUsuario)](https://github.com/ryo-ma/github-profile-trophy)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=IvanGuerrero&show_icons=true&theme=radical)
+
+### 🏆 Mis trofeos en GitHub
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IvanGuerrero)](https://github.com/ryo-ma/github-profile-trophy)

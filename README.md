@@ -11,12 +11,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGuerreroFdez&layout=compact&theme=radical alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGuerreroFdez&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">
   <h3>📊 My GitHub stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanGuerreroFdez&show_icons=true&theme=radical alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanGuerreroFdez&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </div>
 
 <div align="center">

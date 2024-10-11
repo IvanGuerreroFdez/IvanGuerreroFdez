@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGuerreroFdez&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGuerreroFdez&layout=compact&theme=radical&exclude_repo=DeepLearningAI" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">

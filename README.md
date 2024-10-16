@@ -8,6 +8,57 @@
   🌱 I’m currently learning about Cibersecurity and forming my self ⚒️
   
   💪🔥📖 All knowledge is never enough, you can always learn more 📖🔥💪
+
+  <hr style="width:50%;border:1px solid #fff;">
+</div>
+
+<div>
+  <h2 align="center">More about myself</h2>
+
+  <h3>What skills have I learned?</h3>
+  <ul>
+    <li>Python basics</li>
+    <li>Machine/Deep learning (Keras, Tensorflow, VAE, Sklearn datasets, Clustering, PySpark, ANN)</li>
+    <li>C</li>
+    <li>C++</li>
+    <li>Java</li>
+    <li>Asembler (Zeus Z80)</li>
+    <li>SQL (MariaDB, MongoDB)</li>
+    <li>AWS oriented to Databases and SQL</li>
+    <li>Bash scripting</li>
+    <li>Logisim</li>
+    <li>R</li>
+    <li>Web development (HTML, CSS, Javascript)</li>
+    <li>Visual Composition Fundamentals</li>
+    <li>Computer Network</li>
+  </ul>
+
+  <h3>What skills am I still learning?</h3>
+  <ul>
+    <li>AWS oriented to distributed systems</li>
+    <li>Machine learning oriented to AI</li>
+    <li>Full-stack JavaScript(React.js, Node.js,...)</li>
+    <li>PhP</li>
+    <li>Agile proyects oriented technique</li>
+    <li>Forensic Analysis</li>
+    <li>Ethical Hacking</li>
+    <li>Web Programming (Client & Server)</li>
+    <li>Cryptography</li>
+    <li>Project Direction and Management</li>
+  </ul>
+
+  <h3>What am I aiming to learn?</h3>
+  <ul>
+    <li>Programming Paradigms</li>
+    <li>Bastion of systems</li>
+    <li>Hardening techniques</li>
+    <li>Cybersecurity Research Techniques and Methodologies</li>
+    <li>Malware analysis</li>
+    <li>Programming with the Windows API in C++</li>
+    <li>Automating vulnerability exploitation in Python</li>
+    <li>Automation in Active Directory environments in Powershell</li>
+    <li>Business Creation and Management</li>
+  </ul>
 </div>
 
 <div align="center">
